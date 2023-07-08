@@ -1,4 +1,5 @@
 # Aria2 Docker Image with RPC Enabled
+![LICENSE](https://img.shields.io/github/license/ph4r5h4d/aria2-docker?style=for-the-badge) [![Docker Pull](https://img.shields.io/docker/pulls/ph4r5h4d/aria2-docker?style=for-the-badge)](https://hub.docker.com/r/ph4r5h4d/aria2-docker) 
 
 This Docker image provides an instance of the Aria2 download manager with Remote Procedure Call (RPC) enabled. Aria2 is a lightweight and versatile command-line-based download utility that supports downloading files from various protocols, such as HTTP, FTP, BitTorrent, and Metalink. By using this Docker image, you can easily set up and manage a centralized Aria2 server with RPC capabilities.
 
