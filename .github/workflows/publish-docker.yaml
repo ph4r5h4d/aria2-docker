@@ -14,7 +14,7 @@ jobs:
     - name: Build docker image
       run: docker build . --file Dockerfile --tag aria2-docker
     - name: Logging into docker hub
-      run: echo "${{ secrets.DOCKERHUBPWD }}" | docker login --username ph4r5h4d --password-stdin
+      run: echo "${{ secrets.DOCKER_HUB_PWD }}" | docker login --username ph4r5h4d --password-stdin
     - name: Tag and push
       run: |
         IMAGE=ph4r5h4d/aria2-docker
