@@ -67,4 +67,4 @@ If you encounter any issues with the Aria2 Docker image or have suggestions for 
 
 ## License
 
-This Docker image and its associated scripts are licensed under the [MIT License](LICENSE). Aria2 is an open-source project released under the [GPLv2 License](https://www.gnu.org/licenses/gpl-2.0.en.html). Please make sure you comply with the license terms when using this software.
+This Docker image and its associated scripts are licensed under the [GNU General Public License v3.0](LICENSE). Aria2 is an open-source project released under the [GPLv2 License](https://www.gnu.org/licenses/gpl-2.0.en.html). Please make sure you comply with the license terms when using this software.
